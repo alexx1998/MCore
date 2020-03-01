@@ -1,0 +1,6 @@
+SQL:
+  host: localhost
+  database: mchat
+  username: root
+  password:
+  port: 3306

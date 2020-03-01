@@ -1,0 +1,7 @@
+name: MCore
+version: ${project.version}
+main: com.mordonia.mcore.MCore
+api-version: 1.13
+load: STARTUP
+authors: [AlexxSGames]
+description: A core API plugin for Mordonia

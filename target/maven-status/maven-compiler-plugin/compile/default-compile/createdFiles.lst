@@ -1,0 +1,12 @@
+com\mordonia\mcore\MySQLConnectionProvider.class
+com\mordonia\mcore\mchat\util\playerData\FileConfig.class
+com\mordonia\mcore\mchat\util\channelData\ChatChannelDataManager.class
+com\mordonia\mcore\ms\util\TicketData.class
+com\mordonia\mcore\ms\util\TicketDataManager.class
+com\mordonia\mcore\mchat\util\kingdomData\KingdomDataManager.class
+com\mordonia\mcore\mchat\util\channelData\ChatChannelData.class
+com\mordonia\mcore\mchat\util\kingdomData\KingdomData.class
+com\mordonia\mcore\MCore.class
+com\mordonia\mcore\mchat\util\playerData\PlayerChatDataManager.class
+com\mordonia\mcore\mchat\util\playerData\PlayerChatData.class
+com\mordonia\mcore\MySQLConnection.class
